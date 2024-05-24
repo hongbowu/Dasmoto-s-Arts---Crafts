@@ -1,3 +1,35 @@
-header {
+body {
+    font-family: Helvetica;
+}
+
+h1 {
     background-image: url('./image/pattern.jpeg');
+    color: Khaki;
+    text-align: center;
+    font-size: 100px;
+}
+
+main {
+    margin-top: 80px;
+}
+
+h2 {
+    color: white;
+}
+
+.green {
+    background-color: MediumSpringGreen;
+}
+
+.red {
+    background-color: LightCoral;
+}
+
+.blue {
+    background-color: SkyBlue;
+}
+
+.price {
+    color: Blue;
+    font-weight: bold;
 }
